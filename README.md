@@ -73,3 +73,4 @@ export default defineConfig([
 ```
 # insta-mantine
 # insta-mantine
+# insta-post
